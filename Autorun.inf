@@ -1,0 +1,5 @@
+[Autorun]
+Open=javaViewer-win32.exe
+Action=Open Images with JavaViewer
+Icon=javaViewer-win32.exe
+Label=JavaViewer
